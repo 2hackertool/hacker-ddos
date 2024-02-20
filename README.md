@@ -20,7 +20,7 @@ git clone https://github.com/2hackertool/hacker-ddos.git
 
 cd hacker-ddos
 
-chmod +x *
+chmod +x ddos.py
 
 python2 ddos.py
 
@@ -42,6 +42,6 @@ git clone https://github.com/2hackertool/hacker-ddos.git
 
 cd hacker-ddos
 
-chmod +x *
+chmod +x ddos.py
 
 python2 ddos.py
