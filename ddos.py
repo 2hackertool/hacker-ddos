@@ -27,7 +27,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet Attack Starting | lolcat")
 print "[                    ] 0% "
 time.sleep(1)
 print "[=====               ] 25%"
